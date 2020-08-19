@@ -14,4 +14,4 @@ A tool collection for Python Devs
 - Import the file `pydtk.py` by the command `import pydtk` or `from pydtk import *`.
 
 # License
-The project is under the MIT License
+The project is under the [MIT License](https://github.com/caue-alves/PyDev-ToolKit/blob/master/LICENSE.md)
