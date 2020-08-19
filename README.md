@@ -1,4 +1,4 @@
-# PyDev ToolKIt
+# PyDev ToolKit
 
 ![](https://img.shields.io/github/license/caue-alves/PyDev-ToolKit)
 ![](https://img.shields.io/github/languages/top/caue-alves/PyDev-ToolKit)
@@ -14,6 +14,6 @@ Uma coleção de ferramentas para Desenvolvedores Python
 - Mova o arquivo para a pasta de os arquivos para a pasta de seu projeto;
 - Importe o arquivo `pydtk.py` usando o comando `import pydtk` ou `from pydtk import *`.
 
-# Licensa
+# Licença
 
 O projeto está em [Licensa MIT](https://github.com/caue-alves/PyDev-ToolKit/blob/master/LICENSE.md)
