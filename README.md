@@ -15,4 +15,4 @@ Uma coleção de ferramentas para Desenvolvedores Python
 
 # Licensa
 
-O projeto está em licensa MIT
+O projeto está em [Licensa MIT](https://github.com/caue-alves/PyDev-ToolKit/blob/master/LICENSE.md)
