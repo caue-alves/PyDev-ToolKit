@@ -6,7 +6,8 @@
 
 [English](https://github.com/caue-alves/PyDev-ToolKit/blob/master/International%20READMEs/README-ENGLISH.md) |
 [Spañol](https://github.com/caue-alves/PyDev-ToolKit/blob/master/International%20READMEs/README-SPA%C3%91OL.md) |
-[中文](https://github.com/caue-alves/PyDev-ToolKit/blob/master/International%20READMEs/README-CHINA.md)
+[中文](https://github.com/caue-alves/PyDev-ToolKit/blob/master/International%20READMEs/README-CHINA.md) |
+[عربى](https://github.com/caue-alves/PyDev-ToolKit/blob/master/International%20READMEs/README-ARABIC.md)
 
 A tool collection for Python Devs
 
