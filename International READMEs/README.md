@@ -11,7 +11,7 @@ A tool collection for Python Devs
 
 # How to use
 - Move the file to the directory of your project;
-- Import the `file `pydtk.py` by the command `import pydtk` or `from pydtk import *`.
+- Import the file `pydtk.py` by the command `import pydtk` or `from pydtk import *`.
 
 # License
 The project is under the MIT License
