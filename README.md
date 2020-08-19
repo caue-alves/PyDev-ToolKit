@@ -6,6 +6,10 @@
 
 A Tool Collection for Python devs
 
-# License
+# Como usar:
+- Mova o arquivo para a pasta de os arquivos para a pasta de seu projeto;
+- Importe o arquivo pydtk usando o comando `import pydtk` ou `from pydtk import *`.
+
+# Licensa
 
 The project is under MIT License
