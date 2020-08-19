@@ -1,10 +1,13 @@
-# PyDev-ToolKit
+# PyDev ToolKIt
 
 ![](https://img.shields.io/github/license/caue-alves/PyDev-ToolKit)
 ![](https://img.shields.io/github/languages/top/caue-alves/PyDev-ToolKit)
 ![](https://img.shields.io/github/languages/code-size/caue-alves/PyDev-ToolKit)
 
-A Tool Collection for Python devs
+[English]() |
+[Spañol]()
+
+Uma coleção de ferramentas para Desenvolvedores Python 
 
 # Como usar:
 - Mova o arquivo para a pasta de os arquivos para a pasta de seu projeto;
@@ -12,4 +15,4 @@ A Tool Collection for Python devs
 
 # Licensa
 
-The project is under MIT License
+O projeto está em licensa MIT
