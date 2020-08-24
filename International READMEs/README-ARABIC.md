@@ -13,6 +13,15 @@
 مجموعة من الأدوات لمطوري Python
 
 # كيف تستعمل:
+- استنساخ المستودع باستخدام:
+```
+git clone https://github.com/caue-alves/PyDev-ToolKit
+```
+أو
+```
+git clone https://github.com/caue-alves/PyDev-ToolKit master
+```
+يمكنك تنزيل ملف ZIP أيضًا
 - انقل الملف إلى مجلد الملفات إلى مجلد مشروعك ؛
 - قم باستيراد ملف `pydtk.py` باستخدام الأمر` import pydtk` أو `من pydtk import 
 
