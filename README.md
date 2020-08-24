@@ -13,6 +13,14 @@
 Uma coleção de ferramentas para Desenvolvedores Python 
 
 # Como usar:
+- Clone o repositório usando:
+```
+git clone https://github.com/caue-alves/PyDev-ToolKit
+```
+ou 
+```
+git pull https://github.com/caue-alves/PyDev-ToolKit master
+```
 - Mova o arquivo para a pasta de os arquivos para a pasta de seu projeto;
 - Importe o arquivo `pydtk.py` usando o comando `import pydtk` ou `from pydtk import *`.
 
