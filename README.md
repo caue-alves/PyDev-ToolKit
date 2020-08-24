@@ -27,3 +27,17 @@ git pull https://github.com/caue-alves/PyDev-ToolKit master
 # Licença
 
 O projeto está em [Licensa MIT](https://github.com/caue-alves/PyDev-ToolKit/blob/master/LICENSE.md)
+
+# Contribuir
+
+Para contribuir você deve, primeiramente, rodar em seu Git Bash:
+```
+git pull https://github.com/caue-alves/PyDev-ToolKit master
+```
+Ou baixar o arquivo ZIP;
+
+Então você deve fazer as modificações e depois rodar o comando:
+```
+git push https://github.com/caue-alves/PyDev-ToolKit master
+```
+Ou apenas reinserir os aquivos no repositório
