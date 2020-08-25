@@ -36,8 +36,3 @@ def implode(array):
     str = ""
     for i in array:
         str.join(i)
-
-
-
-
-
