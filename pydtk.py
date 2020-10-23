@@ -20,10 +20,8 @@ def media(values):
     return final / len(values)
 
 def explode(string):
-    final_array = []
-    for i in string:
-        final_array.append(i)
-    return final_array
+    final = string.split()
+    return final
 
 def array_diff(array1, array2):
     final_list = []
